@@ -1,0 +1,10 @@
+Locales
+
+C:\Users\admin\Documents\nextu_examen1_html\index.html
+C:\Users\admin\Documents\nextu_examen1_html\educacion.html
+C:\Users\admin\Documents\nextu_examen1_html\experiencia.html
+
+
+Externo
+
+https://github.com/omarking/html.git
